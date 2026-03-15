@@ -4,4 +4,4 @@
 ![Real Wiring Schema](https://github.com/elsamw/SecureSwipe-System/blob/main/images/16455.jpg)
 ---
 ### Schema:
-![Wiring Schema]([https://github.com/elsamw/SecureSwipe-System/blob/main/images/16455.jpg](https://github.com/elsamw/SecureSwipe-System/blob/main/images/Screenshot%202026-03-15%20155933.png))
+![Wiring Schema](https://github.com/elsamw/SecureSwipe-System/blob/main/images/Wiring-Schema.png)
