@@ -3,5 +3,13 @@
 ---
 ![Real Wiring Schema](https://github.com/elsamw/SecureSwipe-System/blob/main/images/16455.jpg)
 ---
+### Components:
+- Arduino UNO R3
+- LCD 1602 with I2C
+- RC522
+- 2 LEDs (green/red)
+- Active buzzer
+- Wires(F-M/Jumpers Wires)
+---
 ### Schema:
 ![Wiring Schema](https://github.com/elsamw/SecureSwipe-System/blob/main/images/Wiring-Schema.png)
